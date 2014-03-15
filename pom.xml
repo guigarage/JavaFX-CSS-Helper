@@ -11,7 +11,7 @@
 
     <groupId>com.guigarage</groupId>
 	<artifactId>css-helper</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.2-SNAPSHOT</version>
 
     <name>CSS Helper classes for JavaFX</name>
     <url>https://github.com/guigarage/ObservableToggles</url>
